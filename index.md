@@ -3,3 +3,6 @@
 ```
 console.log(Hello Sweety);
 ```
+- [ ] hi there welcome 
+- [ ] hello you are jacked
+- [ ] tough thy brain 
