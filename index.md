@@ -1,3 +1,2 @@
 # This is an header which is the largest 
-  ## this is <h2> header which is second largest 
-  ###### Smallest Header
+ ![This is octocat in yamraj form] (https://octodex.github.com/images/yaktocat.png)
